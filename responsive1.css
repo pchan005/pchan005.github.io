@@ -27,7 +27,6 @@
     #intro2 {
         font-size:15px;
         max-width:250px;
-        margin-left:-170px;
     }
 
     #main {
@@ -45,30 +44,10 @@
 
     #intro2 {
         max-width:300px;
-        margin-left:-255px;
         font-size:20px;
     }
 
     #main {
         margin-top:-180px;
-    }
-}
-
-@media (min-width:1200px) {
-    #intro {
-        margin-top:180px;
-        max-width:500px;
-        font-size:30px;
-        margin-left:30px;
-    }
-
-    #intro2 {
-        max-width:300px;
-        margin-left:-300px;
-        font-size:20px;
-    }
-
-    #main {
-        margin-top:-190px;
     }
 }
