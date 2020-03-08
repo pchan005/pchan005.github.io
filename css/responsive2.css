@@ -1,0 +1,29 @@
+@media (max-width: 575.98px) {
+    #myNav {
+        padding: 15px 30px;
+    }
+
+    #brand {
+        margin: 0px;
+    }
+
+    .row {
+        margin: 0px;
+    }
+
+    .container-fluid {
+        padding: 40px 20px;
+    }
+
+    #skills {
+        height: auto !important;
+    }
+
+}
+
+@media (min-width: 992px) {
+    
+}
+
+@media (min-width: 1200px) { 
+}
