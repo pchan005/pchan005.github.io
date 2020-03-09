@@ -100,13 +100,34 @@ p {
     margin-left: 10px;
 }
 
+#arrow-3 {
+    margin-right: 10px;
+}
+
 #last {
     margin-bottom: 50px;
-    margin-top: 150px;
+    margin-top: 100px;
+}
+
+#last-2 {
+    margin-top: 100px;
+    margin-bottom: 50px;
 }
 
 html {
     scroll-behavior: smooth;
+}
+
+.dribbble path {
+    fill: #3F3D56;
+}
+
+.icons {
+    margin: 15px 25px 0 0;
+}
+
+.bx:hover {
+    color: #65ADEF !important;
 }
 
 /* Animations */

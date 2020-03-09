@@ -19,6 +19,53 @@
         height: auto !important;
     }
 
+    .col {
+        margin: 10px 0px;
+    }
+
+    #last {
+        margin-bottom: 0px;
+    }
+
+}
+
+@media (max-width: 767.98px) {
+    #myNav {
+        padding: 15px 30px;
+    }
+
+    .row {
+        margin: 20px;
+    }
+
+    .container-fluid {
+        padding: 40px 20px;
+    }
+
+    .col {
+        margin-bottom: 10px;
+    }
+
+    #last {
+        margin: 0px;
+    }
+
+    #skills {
+        height: auto !important;
+    }
+
+    #me {
+        height: auto !important;
+    }
+
+    #design {
+        height: auto !important;
+    }
+
+    #about {
+        height: auto !important;
+    }
+
 }
 
 @media (min-width: 992px) {
