@@ -27,6 +27,15 @@
         margin-bottom: 0px;
     }
 
+    #last-3 {
+        margin-top: 0px;
+    }
+
+    #contact-img {
+        margin-top: 20px;
+        margin-bottom: 0px;
+    }
+
 }
 
 @media (max-width: 767.98px) {

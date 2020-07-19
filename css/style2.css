@@ -114,6 +114,11 @@ p {
     margin-bottom: 50px;
 }
 
+#last-3 {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
 html {
     scroll-behavior: smooth;
 }
