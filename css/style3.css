@@ -63,7 +63,7 @@ a:hover {
 }
 
 .tag {
-    background: #E7F3FF;
+    background: #b2edad;
     border-radius: 5px;
     display: flex;
     flex-direction: row;
@@ -81,5 +81,17 @@ a:hover {
 .member {
     width: 90px;
     height: auto;
-    margin: 40px 30px;
+    margin: 40px 50px 30px;
+    border-radius: 50%;
+}
+
+.member-name {
+    font-family: 'Nunito', 'sans-serif';
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+.member-role {
+    font-family: 'Nunito', 'sans-serif';
+    margin-bottom: 0;
 }
