@@ -34,8 +34,9 @@ a:hover {
 }
 
 .header-title {
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 22px;
+    font-weight: 600;
     color: rgba(0, 0, 0, 0.9);
 }
 
