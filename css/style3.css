@@ -22,7 +22,7 @@ a:hover {
 }
 
 .rectangle {
-    width: 100vw;
+    width: 100%;
     height: 250px;
     background: linear-gradient(90deg, #B5E6A6 0%, #C4D790 100%);
 }
@@ -64,7 +64,7 @@ a:hover {
 }
 
 .tag {
-    background: #b2edad;
+    background: #c4edaf;
     border-radius: 5px;
     display: flex;
     flex-direction: row;
