@@ -64,12 +64,14 @@ h4 {
 
 .btn-1 {
     margin-top: 15px;
-    padding: 10px 30px;
+    padding: 0.6em 1.35em;
     background: none;
-    border-radius: 33px;
+    border-radius: 1.8em;
     border: 2px solid #E48C3E;
     color: #E48C3E;
     font-family: 'Raleway', sans-serif;
+    font-size: 0.9em;
+    transition: all 0.2s;
 }
 
 .btn-1:hover {
@@ -78,18 +80,20 @@ h4 {
 }
 
 #btn-2 {
-    background: #DDF7FF;
+    background: none;
     color: #2675DF;
+    border: 2px solid #2675DF;
 }
 
 #btn-2:hover, #btn-2:focus, #btn-2:active {
     background-color: #2675DF;
-    color: #DDF7FF;
+    color: white;
 }
 
 #btn-3 {
-    background: #DDFFE2;
-    color: #219653;
+    background: none;
+    color: grey;
+    border: 2px solid grey;
 }
 
 /* #btn-3:hover, #btn-3:focus, #btn-3:active {

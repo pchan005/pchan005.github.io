@@ -27,6 +27,10 @@ a:hover {
     background: linear-gradient(90deg, #B5E6A6 0%, #C4D790 100%);
 }
 
+#blue-header {
+    background: linear-gradient(90deg, rgba(88,135,221,1) 0%, rgba(150,204,255,1) 100%);
+}
+
 .header-img {
     width: 90px;
     height: auto;
