@@ -28,7 +28,7 @@ a:hover {
 }
 
 #blue-header {
-    background: linear-gradient(90deg, rgba(88,135,221,1) 0%, rgba(150,204,255,1) 100%);
+    background: linear-gradient(90deg, #5887dd 0%, rgba(150,204,255,1) 100%);
 }
 
 .header-img {
@@ -75,6 +75,10 @@ a:hover {
     padding: 6px 15px;
     border: none;
     margin: 6px 12px 10px 0px;
+}
+
+.tag-2 {
+    background: #CEEAFF;
 }
 
 .special {
