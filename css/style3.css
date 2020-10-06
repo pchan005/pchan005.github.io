@@ -104,3 +104,7 @@ a:hover {
     font-family: 'Nunito', 'sans-serif';
     margin-bottom: 0;
 }
+
+.team-spacer {
+    margin-bottom: 50px;
+}
